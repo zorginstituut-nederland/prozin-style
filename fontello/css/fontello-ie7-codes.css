@@ -187,6 +187,8 @@
 .icon-industrial-building { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8b9;&nbsp;'); }
 .icon-zoom-in { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8ba;&nbsp;'); }
 .icon-zoom-out { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8bb;&nbsp;'); }
+.icon-level-down-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8bc;&nbsp;'); }
+.icon-level-up-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8bd;&nbsp;'); }
 .icon-left-open-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c3;&nbsp;'); }
 .icon-3915-waarschuwing { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c6;&nbsp;'); }
 .icon-megaphone { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f0;&nbsp;'); }
@@ -199,6 +201,8 @@
 .icon-angle-left { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf104;&nbsp;'); }
 .icon-angle-right-thinner { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf105;&nbsp;'); }
 .icon-ellipsis-vert { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf142;&nbsp;'); }
+.icon-level-up { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf148;&nbsp;'); }
+.icon-level-down { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf149;&nbsp;'); }
 .icon-euro { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf153;&nbsp;'); }
 .icon-doc-inv { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf15b;&nbsp;'); }
 .icon-dropbox { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf16b;&nbsp;'); }

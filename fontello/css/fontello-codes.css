@@ -187,6 +187,8 @@
 .icon-industrial-building:before { content: '\e8b9'; } /* '' */
 .icon-zoom-in:before { content: '\e8ba'; } /* '' */
 .icon-zoom-out:before { content: '\e8bb'; } /* '' */
+.icon-level-down-1:before { content: '\e8bc'; } /* '' */
+.icon-level-up-1:before { content: '\e8bd'; } /* '' */
 .icon-left-open-1:before { content: '\e8c3'; } /* '' */
 .icon-3915-waarschuwing:before { content: '\e8c6'; } /* '' */
 .icon-megaphone:before { content: '\e8f0'; } /* '' */
@@ -199,6 +201,8 @@
 .icon-angle-left:before { content: '\f104'; } /* '' */
 .icon-angle-right-thinner:before { content: '\f105'; } /* '' */
 .icon-ellipsis-vert:before { content: '\f142'; } /* '' */
+.icon-level-up:before { content: '\f148'; } /* '' */
+.icon-level-down:before { content: '\f149'; } /* '' */
 .icon-euro:before { content: '\f153'; } /* '' */
 .icon-doc-inv:before { content: '\f15b'; } /* '' */
 .icon-dropbox:before { content: '\f16b'; } /* '' */
