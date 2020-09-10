@@ -200,6 +200,10 @@
 .icon-zoom-out { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8bb;&nbsp;'); }
 .icon-level-down-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8bc;&nbsp;'); }
 .icon-level-up-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8bd;&nbsp;'); }
+.icon-firefox { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8be;&nbsp;'); }
+.icon-chrome { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8bf;&nbsp;'); }
+.icon-ie { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c0;&nbsp;'); }
+.icon-opera { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c1;&nbsp;'); }
 .icon-left-open-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c3;&nbsp;'); }
 .icon-3915-waarschuwing { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c6;&nbsp;'); }
 .icon-megaphone { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f0;&nbsp;'); }
@@ -222,6 +226,7 @@
 .icon-spoon { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf1b1;&nbsp;'); }
 .icon-newspaper { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf1ea;&nbsp;'); }
 .icon-eyedropper { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf1fb;&nbsp;'); }
+.icon-edge { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf282;&nbsp;'); }
 .icon-envelope-open { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2b6;&nbsp;'); }
 .icon-envelope-open-o { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2b7;&nbsp;'); }
 .icon-thermometer { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2c7;&nbsp;'); }

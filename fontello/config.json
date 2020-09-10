@@ -1865,6 +1865,36 @@
       "src": "fontawesome"
     },
     {
+      "uid": "62c089cb34e74b3a1200bc7f5314eb4e",
+      "css": "firefox",
+      "code": 59582,
+      "src": "fontelico"
+    },
+    {
+      "uid": "9c2b737b16ae2c8d66b7bfd29ba5ecd8",
+      "css": "chrome",
+      "code": 59583,
+      "src": "fontelico"
+    },
+    {
+      "uid": "2a46f1d1c9bd036e17a74e46613c1636",
+      "css": "ie",
+      "code": 59584,
+      "src": "fontelico"
+    },
+    {
+      "uid": "45861dd1e5ce4fde338bcccf01eeb808",
+      "css": "opera",
+      "code": 59585,
+      "src": "fontelico"
+    },
+    {
+      "uid": "03957a1f03b5ae5dfac6e5027d893157",
+      "css": "edge",
+      "code": 62082,
+      "src": "fontawesome"
+    },
+    {
       "uid": "75acd63d28b73b5542c8a9d8593125ea",
       "css": "4099-zorg-professionals",
       "code": 59452,

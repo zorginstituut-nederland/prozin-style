@@ -189,6 +189,10 @@
 .icon-zoom-out:before { content: '\e8bb'; } /* '' */
 .icon-level-down-1:before { content: '\e8bc'; } /* '' */
 .icon-level-up-1:before { content: '\e8bd'; } /* '' */
+.icon-firefox:before { content: '\e8be'; } /* '' */
+.icon-chrome:before { content: '\e8bf'; } /* '' */
+.icon-ie:before { content: '\e8c0'; } /* '' */
+.icon-opera:before { content: '\e8c1'; } /* '' */
 .icon-left-open-1:before { content: '\e8c3'; } /* '' */
 .icon-3915-waarschuwing:before { content: '\e8c6'; } /* '' */
 .icon-megaphone:before { content: '\e8f0'; } /* '' */
@@ -211,6 +215,7 @@
 .icon-spoon:before { content: '\f1b1'; } /* '' */
 .icon-newspaper:before { content: '\f1ea'; } /* '' */
 .icon-eyedropper:before { content: '\f1fb'; } /* '' */
+.icon-edge:before { content: '\f282'; } /* '' */
 .icon-envelope-open:before { content: '\f2b6'; } /* '' */
 .icon-envelope-open-o:before { content: '\f2b7'; } /* '' */
 .icon-thermometer:before { content: '\f2c7'; } /* '' */
