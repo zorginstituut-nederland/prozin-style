@@ -207,6 +207,7 @@
 .icon-dialogue { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c2;&nbsp;'); }
 .icon-left-open-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c3;&nbsp;'); }
 .icon-theatre { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c4;&nbsp;'); }
+.icon-arrows-apart { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c5;&nbsp;'); }
 .icon-3915-waarschuwing { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c6;&nbsp;'); }
 .icon-megaphone { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f0;&nbsp;'); }
 .icon-angle-right-larger { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf006;&nbsp;'); }

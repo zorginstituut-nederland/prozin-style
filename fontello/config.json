@@ -1919,6 +1919,20 @@
       "src": "maki"
     },
     {
+      "uid": "19670a875f77c864d6e9a5665a114a54",
+      "css": "arrows-apart",
+      "code": 59589,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M500 0L0 500 500 1000 641.9 858.1 283.9 500 641.9 141.9 500 0ZM1751.8 1000L2251.8 500 1751.8 0 1609.8 141.9 1967.9 500 1609.8 858.1 1751.8 1000Z",
+        "width": 2252
+      },
+      "search": [
+        "arrows-apart"
+      ]
+    },
+    {
       "uid": "75acd63d28b73b5542c8a9d8593125ea",
       "css": "4099-zorg-professionals",
       "code": 59452,
