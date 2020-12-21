@@ -1933,6 +1933,18 @@
       ]
     },
     {
+      "uid": "8704cd847a47b64265b8bb110c8b4d62",
+      "css": "down-open",
+      "code": 59591,
+      "src": "entypo"
+    },
+    {
+      "uid": "9c7ff134960bb5a82404e4aeaab366d9",
+      "css": "up-open",
+      "code": 59592,
+      "src": "entypo"
+    },
+    {
       "uid": "75acd63d28b73b5542c8a9d8593125ea",
       "css": "4099-zorg-professionals",
       "code": 59452,
