@@ -9,13 +9,13 @@
     {
       "uid": "5d2d07f112b8de19f2c0dbfec3e42c05",
       "css": "spin",
-      "code": 59392,
+      "code": 61734,
       "src": "fontelico"
     },
     {
       "uid": "d73eceadda1f594cec0536087539afbf",
       "css": "heart",
-      "code": 59393,
+      "code": 59282,
       "src": "fontawesome"
     },
     {
@@ -404,7 +404,7 @@
     },
     {
       "uid": "7b16b22168e762c88333f465da862098",
-      "css": "ok",
+      "css": "ok-1",
       "code": 59459,
       "src": "websymbols"
     },
@@ -1971,6 +1971,24 @@
       "search": [
         "3938-diagonale-pijl"
       ]
+    },
+    {
+      "uid": "bc4b94dd7a9a1dd2e02f9e4648062596",
+      "css": "fork",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "500cde26773d15aaac1bfaa2a33cc5a9",
+      "css": "spread",
+      "code": 62759,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "8a1d446e5555e76f82ddb1c8b526f579",
+      "css": "flow-tree",
+      "code": 59393,
+      "src": "entypo"
     },
     {
       "uid": "75acd63d28b73b5542c8a9d8593125ea",
