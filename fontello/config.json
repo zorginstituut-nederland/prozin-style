@@ -1992,8 +1992,8 @@
     },
     {
       "uid": "97dd60bed7d25c6bf80ebd6c9575e87b",
-      "css": "open-book",
-      "code": 59593,
+      "css": "book-page-turning",
+      "code": 59849,
       "src": "custom_icons",
       "selected": true,
       "svg": {
@@ -2001,7 +2001,7 @@
         "width": 1000
       },
       "search": [
-        "open-book"
+        "book-page-turning"
       ]
     },
     {
