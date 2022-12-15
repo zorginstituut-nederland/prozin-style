@@ -223,6 +223,7 @@
 .icon-data-protection { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8e0;&nbsp;'); }
 .icon-personal-data { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8e1;&nbsp;'); }
 .icon-privacy-ok { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8e2;&nbsp;'); }
+.icon-language-2 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8ea;&nbsp;'); }
 .icon-megaphone { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f0;&nbsp;'); }
 .icon-publish { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe996;&nbsp;'); }
 .icon-book-page-turning { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c9;&nbsp;'); }
