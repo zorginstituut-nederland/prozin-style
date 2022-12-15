@@ -2285,6 +2285,18 @@
       "src": "fontawesome"
     },
     {
+      "uid": "18ef25350258541e8e54148ed79845c0",
+      "css": "minus-squared-alt",
+      "code": 61767,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "2d3be3e856fc1e4ac067590d2ded1b07",
+      "css": "plus-squared-alt",
+      "code": 61846,
+      "src": "fontawesome"
+    },
+    {
       "uid": "75acd63d28b73b5542c8a9d8593125ea",
       "css": "4099-zorg-professionals",
       "code": 59452,
