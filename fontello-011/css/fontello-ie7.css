@@ -239,6 +239,7 @@
 .icon-personal-data { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8e1;&nbsp;'); }
 .icon-privacy-ok { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8e2;&nbsp;'); }
 .icon-2038-instellingen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8e3;&nbsp;'); }
+.icon-3937-plus { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8e4;&nbsp;'); }
 .icon-language-2 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8ea;&nbsp;'); }
 .icon-megaphone { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f0;&nbsp;'); }
 .icon-publish { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe996;&nbsp;'); }
