@@ -248,6 +248,7 @@
 .icon-language-2 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8ea;&nbsp;'); }
 .icon-27-kalender { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8eb;&nbsp;'); }
 .icon-36-nieuws { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8ec;&nbsp;'); }
+.icon-info { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8ed;&nbsp;'); }
 .icon-megaphone { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f0;&nbsp;'); }
 .icon-publish { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe996;&nbsp;'); }
 .icon-book-page-turning { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c9;&nbsp;'); }
@@ -270,6 +271,7 @@
 .icon-code { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf121;&nbsp;'); }
 .icon-spin { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf126;&nbsp;'); }
 .icon-unlink { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf127;&nbsp;'); }
+.icon-info-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf129;&nbsp;'); }
 .icon-puzzle { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf12e;&nbsp;'); }
 .icon-ellipsis-vert { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf142;&nbsp;'); }
 .icon-minus-squared-alt { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf147;&nbsp;'); }

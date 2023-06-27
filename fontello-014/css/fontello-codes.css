@@ -237,6 +237,7 @@
 .icon-language-2:before { content: '\e8ea'; } /* '' */
 .icon-27-kalender:before { content: '\e8eb'; } /* '' */
 .icon-36-nieuws:before { content: '\e8ec'; } /* '' */
+.icon-info:before { content: '\e8ed'; } /* '' */
 .icon-megaphone:before { content: '\e8f0'; } /* '' */
 .icon-publish:before { content: '\e996'; } /* '' */
 .icon-book-page-turning:before { content: '\e9c9'; } /* '' */
@@ -259,6 +260,7 @@
 .icon-code:before { content: '\f121'; } /* '' */
 .icon-spin:before { content: '\f126'; } /* '' */
 .icon-unlink:before { content: '\f127'; } /* '' */
+.icon-info-1:before { content: '\f129'; } /* '' */
 .icon-puzzle:before { content: '\f12e'; } /* '' */
 .icon-ellipsis-vert:before { content: '\f142'; } /* '' */
 .icon-minus-squared-alt:before { content: '\f147'; } /* '' */
