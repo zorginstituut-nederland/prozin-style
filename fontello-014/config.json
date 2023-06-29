@@ -2515,6 +2515,18 @@
       "src": "fontawesome"
     },
     {
+      "uid": "63b86fedd4ee9ad2105f54f4888e7088",
+      "css": "info",
+      "code": 59629,
+      "src": "entypo"
+    },
+    {
+      "uid": "3d4ea8a78dc34efe891f3a0f3d961274",
+      "css": "info-1",
+      "code": 61737,
+      "src": "fontawesome"
+    },
+    {
       "uid": "75acd63d28b73b5542c8a9d8593125ea",
       "css": "4099-zorg-professionals",
       "code": 59452,
