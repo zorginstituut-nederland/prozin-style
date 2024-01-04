@@ -207,6 +207,7 @@
 .icon-swiss-army-knife:before { content: '\e8cc'; } /* '' */
 .icon-bold:before { content: '\e8cd'; } /* '' */
 .icon-2013-externe-link:before { content: '\e8ce'; } /* '' */
+.icon-picture-2:before { content: '\e8cf'; } /* '' */
 .icon-italic:before { content: '\e8d0'; } /* '' */
 .icon-link:before { content: '\e8d1'; } /* '' */
 .icon-minus:before { content: '\e8d2'; } /* '' */
@@ -244,6 +245,7 @@
 .icon-lock-1:before { content: '\e8f2'; } /* '' */
 .icon-lock-open-1:before { content: '\e8f3'; } /* '' */
 .icon-footer:before { content: '\e8f4'; } /* '' */
+.icon-image-bank:before { content: '\e8f5'; } /* '' */
 .icon-checkboxes-checked:before { content: '\e911'; } /* '' */
 .icon-checkboxes-double-checked:before { content: '\e912'; } /* '' */
 .icon-checkboxes-double-unchecked:before { content: '\e913'; } /* '' */

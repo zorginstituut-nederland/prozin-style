@@ -218,6 +218,7 @@
 .icon-swiss-army-knife { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8cc;&nbsp;'); }
 .icon-bold { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8cd;&nbsp;'); }
 .icon-2013-externe-link { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8ce;&nbsp;'); }
+.icon-picture-2 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8cf;&nbsp;'); }
 .icon-italic { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8d0;&nbsp;'); }
 .icon-link { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8d1;&nbsp;'); }
 .icon-minus { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8d2;&nbsp;'); }
@@ -255,6 +256,7 @@
 .icon-lock-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f2;&nbsp;'); }
 .icon-lock-open-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f3;&nbsp;'); }
 .icon-footer { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f4;&nbsp;'); }
+.icon-image-bank { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f5;&nbsp;'); }
 .icon-checkboxes-checked { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe911;&nbsp;'); }
 .icon-checkboxes-double-checked { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe912;&nbsp;'); }
 .icon-checkboxes-double-unchecked { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe913;&nbsp;'); }
