@@ -104,7 +104,7 @@
 .icon-0016-groep-mensen-torso { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe865;&nbsp;'); }
 .icon-0015-groep-mensen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe866;&nbsp;'); }
 .icon-2014-nieuws_diap { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe867;&nbsp;'); }
-.icon-2019-formulier { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe868;&nbsp;'); }
+.icon-2019-formulier-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe868;&nbsp;'); }
 .icon-2019-formulier_diap { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe869;&nbsp;'); }
 .icon-4142-geneesmiddelen-verbeteren { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe86a;&nbsp;'); }
 .icon-4085-geneesmiddelen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe86b;&nbsp;'); }
@@ -246,6 +246,12 @@
 .icon-lock-open-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f3;&nbsp;'); }
 .icon-footer { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f4;&nbsp;'); }
 .icon-image-bank { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f5;&nbsp;'); }
+.icon-6027-planten-en-bloemen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f6;&nbsp;'); }
+.icon-5213-gedrag-en-gebruikersconcepten { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f7;&nbsp;'); }
+.icon-5170-gebouwenbeheer { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f8;&nbsp;'); }
+.icon-2047-samenhang-van-documenten { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f9;&nbsp;'); }
+.icon-3905-user { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8fa;&nbsp;'); }
+.icon-9003-stapeltje-euros { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8fb;&nbsp;'); }
 .icon-checkboxes-checked { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe911;&nbsp;'); }
 .icon-checkboxes-double-checked { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe912;&nbsp;'); }
 .icon-checkboxes-double-unchecked { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe913;&nbsp;'); }

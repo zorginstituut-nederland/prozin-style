@@ -104,7 +104,7 @@
 .icon-0016-groep-mensen-torso:before { content: '\e865'; } /* '' */
 .icon-0015-groep-mensen:before { content: '\e866'; } /* '' */
 .icon-2014-nieuws_diap:before { content: '\e867'; } /* '' */
-.icon-2019-formulier:before { content: '\e868'; } /* '' */
+.icon-2019-formulier-1:before { content: '\e868'; } /* '' */
 .icon-2019-formulier_diap:before { content: '\e869'; } /* '' */
 .icon-4142-geneesmiddelen-verbeteren:before { content: '\e86a'; } /* '' */
 .icon-4085-geneesmiddelen:before { content: '\e86b'; } /* '' */
@@ -246,6 +246,12 @@
 .icon-lock-open-1:before { content: '\e8f3'; } /* '' */
 .icon-footer:before { content: '\e8f4'; } /* '' */
 .icon-image-bank:before { content: '\e8f5'; } /* '' */
+.icon-6027-planten-en-bloemen:before { content: '\e8f6'; } /* '' */
+.icon-5213-gedrag-en-gebruikersconcepten:before { content: '\e8f7'; } /* '' */
+.icon-5170-gebouwenbeheer:before { content: '\e8f8'; } /* '' */
+.icon-2047-samenhang-van-documenten:before { content: '\e8f9'; } /* '' */
+.icon-3905-user:before { content: '\e8fa'; } /* '' */
+.icon-9003-stapeltje-euros:before { content: '\e8fb'; } /* '' */
 .icon-checkboxes-checked:before { content: '\e911'; } /* '' */
 .icon-checkboxes-double-checked:before { content: '\e912'; } /* '' */
 .icon-checkboxes-double-unchecked:before { content: '\e913'; } /* '' */
