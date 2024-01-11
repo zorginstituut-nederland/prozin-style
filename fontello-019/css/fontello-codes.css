@@ -253,11 +253,16 @@
 .icon-3905-user:before { content: '\e8fa'; } /* '' */
 .icon-9003-stapeltje-euros:before { content: '\e8fb'; } /* '' */
 .icon-headset:before { content: '\e8fc'; } /* '' */
+.icon-financiering:before { content: '\e8fd'; } /* '' */
+.icon-over-ons:before { content: '\e8fe'; } /* '' */
+.icon-publicaties:before { content: '\e8ff'; } /* '' */
+.icon-werkagenda:before { content: '\e900'; } /* '' */
 .icon-checkboxes-checked:before { content: '\e911'; } /* '' */
 .icon-checkboxes-double-checked:before { content: '\e912'; } /* '' */
 .icon-checkboxes-double-unchecked:before { content: '\e913'; } /* '' */
 .icon-checkboxes-unchecked.svg:before { content: '\e914'; } /* '' */
 .icon-publish:before { content: '\e996'; } /* '' */
+.icon-zorgprofessionals:before { content: '\e9af'; } /* '' */
 .icon-book-page-turning:before { content: '\e9c9'; } /* '' */
 .icon-app:before { content: '\e9cf'; } /* '' */
 .icon-angle-right-larger:before { content: '\f006'; } /* '' */

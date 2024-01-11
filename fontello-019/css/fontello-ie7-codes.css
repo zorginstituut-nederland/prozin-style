@@ -253,11 +253,16 @@
 .icon-3905-user { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8fa;&nbsp;'); }
 .icon-9003-stapeltje-euros { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8fb;&nbsp;'); }
 .icon-headset { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8fc;&nbsp;'); }
+.icon-financiering { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8fd;&nbsp;'); }
+.icon-over-ons { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8fe;&nbsp;'); }
+.icon-publicaties { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8ff;&nbsp;'); }
+.icon-werkagenda { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe900;&nbsp;'); }
 .icon-checkboxes-checked { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe911;&nbsp;'); }
 .icon-checkboxes-double-checked { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe912;&nbsp;'); }
 .icon-checkboxes-double-unchecked { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe913;&nbsp;'); }
 .icon-checkboxes-unchecked.svg { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe914;&nbsp;'); }
 .icon-publish { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe996;&nbsp;'); }
+.icon-zorgprofessionals { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9af;&nbsp;'); }
 .icon-book-page-turning { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c9;&nbsp;'); }
 .icon-app { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cf;&nbsp;'); }
 .icon-angle-right-larger { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf006;&nbsp;'); }
