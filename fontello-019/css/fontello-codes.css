@@ -262,6 +262,7 @@
 .icon-checkboxes-unchecked.svg:before { content: '\e914'; } /* '' */
 .icon-publish:before { content: '\e996'; } /* '' */
 .icon-zorgprofessionals:before { content: '\e9af'; } /* '' */
+.icon-x-squared:before { content: '\e9b8'; } /* '' */
 .icon-book-page-turning:before { content: '\e9c9'; } /* '' */
 .icon-app:before { content: '\e9cf'; } /* '' */
 .icon-angle-right-larger:before { content: '\f006'; } /* '' */
@@ -312,4 +313,6 @@
 .icon-envelope-open:before { content: '\f2b6'; } /* '' */
 .icon-envelope-open-o:before { content: '\f2b7'; } /* '' */
 .icon-thermometer:before { content: '\f2c7'; } /* '' */
+.icon-facebook-squared:before { content: '\f308'; } /* '' */
+.icon-linkedin-squared:before { content: '\f30c'; } /* '' */
 .icon-spread:before { content: '\f527'; } /* '' */
