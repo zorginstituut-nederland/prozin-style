@@ -207,7 +207,7 @@
 .icon-swiss-army-knife:before { content: '\e8cc'; } /* '' */
 .icon-bold:before { content: '\e8cd'; } /* '' */
 .icon-2013-externe-link:before { content: '\e8ce'; } /* '' */
-.icon-picture-2:before { content: '\e8cf'; } /* '' */
+.icon-3938-diagonale-pijl:before { content: '\e8cf'; } /* '' */
 .icon-italic:before { content: '\e8d0'; } /* '' */
 .icon-link:before { content: '\e8d1'; } /* '' */
 .icon-minus:before { content: '\e8d2'; } /* '' */
@@ -245,6 +245,7 @@
 .icon-lock-1:before { content: '\e8f2'; } /* '' */
 .icon-lock-open-1:before { content: '\e8f3'; } /* '' */
 .icon-footer:before { content: '\e8f4'; } /* '' */
+.icon-picture-2:before { content: '\e8f5'; } /* '' */
 .icon-6027-planten-en-bloemen:before { content: '\e8f6'; } /* '' */
 .icon-5213-gedrag-en-gebruikersconcepten:before { content: '\e8f7'; } /* '' */
 .icon-5170-gebouwenbeheer:before { content: '\e8f8'; } /* '' */
@@ -256,6 +257,7 @@
 .icon-over-ons:before { content: '\e8fe'; } /* '' */
 .icon-publicaties:before { content: '\e8ff'; } /* '' */
 .icon-werkagenda:before { content: '\e900'; } /* '' */
+.icon-37.-diagonale-pijl:before { content: '\e901'; } /* '' */
 .icon-checkboxes-checked:before { content: '\e911'; } /* '' */
 .icon-checkboxes-double-checked:before { content: '\e912'; } /* '' */
 .icon-checkboxes-double-unchecked:before { content: '\e913'; } /* '' */
