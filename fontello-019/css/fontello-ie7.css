@@ -55,8 +55,8 @@
 .icon-tiles { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe829;&nbsp;'); }
 .icon-list { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82a;&nbsp;'); }
 .icon-home { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82b;&nbsp;'); }
-.icon-attach { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82c;&nbsp;'); }
 .icon-3945-link { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82c;&nbsp;'); }
+.icon-attach { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82d;&nbsp;'); }
 .icon-lock { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82e;&nbsp;'); }
 .icon-lock-open { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe82f;&nbsp;'); }
 .icon-eye { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe830;&nbsp;'); }
@@ -256,7 +256,6 @@
 .icon-lock-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f2;&nbsp;'); }
 .icon-lock-open-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f3;&nbsp;'); }
 .icon-footer { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f4;&nbsp;'); }
-.icon-image-bank { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f5;&nbsp;'); }
 .icon-6027-planten-en-bloemen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f6;&nbsp;'); }
 .icon-5213-gedrag-en-gebruikersconcepten { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f7;&nbsp;'); }
 .icon-5170-gebouwenbeheer { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8f8;&nbsp;'); }
@@ -264,12 +263,17 @@
 .icon-3905-user { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8fa;&nbsp;'); }
 .icon-9003-stapeltje-euros { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8fb;&nbsp;'); }
 .icon-headset { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8fc;&nbsp;'); }
+.icon-financiering { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8fd;&nbsp;'); }
+.icon-over-ons { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8fe;&nbsp;'); }
+.icon-publicaties { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8ff;&nbsp;'); }
+.icon-werkagenda { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe900;&nbsp;'); }
 .icon-checkboxes-checked { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe911;&nbsp;'); }
 .icon-checkboxes-double-checked { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe912;&nbsp;'); }
 .icon-checkboxes-double-unchecked { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe913;&nbsp;'); }
 .icon-checkboxes-unchecked.svg { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe914;&nbsp;'); }
 .icon-publish { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe996;&nbsp;'); }
-.icon-glasses { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b0;&nbsp;'); }
+.icon-zorgprofessionals { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9af;&nbsp;'); }
+.icon-x-squared { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b8;&nbsp;'); }
 .icon-book-page-turning { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c9;&nbsp;'); }
 .icon-app { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cf;&nbsp;'); }
 .icon-angle-right-larger { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf006;&nbsp;'); }
@@ -320,4 +324,6 @@
 .icon-envelope-open { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2b6;&nbsp;'); }
 .icon-envelope-open-o { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2b7;&nbsp;'); }
 .icon-thermometer { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2c7;&nbsp;'); }
+.icon-facebook-squared { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf308;&nbsp;'); }
+.icon-linkedin-squared { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf30c;&nbsp;'); }
 .icon-spread { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf527;&nbsp;'); }
